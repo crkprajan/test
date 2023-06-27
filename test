@@ -1,0 +1,2 @@
+config wireless-controller hotspot20 anqp-venue-name
+end
